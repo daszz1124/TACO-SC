@@ -1,0 +1,1 @@
+python datasets2vector.py 2>&1 | tee -a "Kodakdatasets2vector.log"
